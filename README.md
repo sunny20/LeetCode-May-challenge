@@ -8,3 +8,4 @@
 | 2	 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/ | 	Easy | NA | 	HashMap	 | O(m*n) | 	O(m)	| Under 15 min | 
 | 3 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/ | Easy | NA | HashMap | O(n) | O(m) | Under 15 min |
 | 4 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/ | Easy | NA | NA | O(logn) | O(1) | Under 15 min |
+| 5 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/ | Easy | NA | HashMap | O(n) | O(n) | Under 15 min |
